@@ -1,0 +1,19 @@
+{
+    "name": "BBFramework.PoolSystem.Editor",
+    "rootNamespace": "",
+    "references": [
+        "BBFramework.PoolSystem",
+        "com.bbbirder.directattribute"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

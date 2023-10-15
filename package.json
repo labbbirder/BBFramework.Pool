@@ -1,0 +1,15 @@
+{
+  "name": "bbbirder.framework.pool",
+  "displayName": "BBFramework@Pool",
+  "version": "0.0.1",
+  "hideInEditor": false,
+  "scripts": {
+    
+  },
+  "dependencies": {
+    "com.bbbirder.directattribute": "1.1.5",
+    "com.bbbirder.injection": "1.3.16",
+    "com.cysharp.unitask": "2.3.3"
+  },
+  "author": "bbbirder <502100554@qq.com>"
+}

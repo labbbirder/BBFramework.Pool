@@ -1,0 +1,18 @@
+{
+    "name": "BBFramework.PoolSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:b66755024ec682a4aa0f53d87f0616ea",
+        "GUID:521f16345e07cc2439d976f3bbd67b45"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
